@@ -28,3 +28,13 @@ body{
 .con1_1{
     margin-top: 350%;
 }
+.con2{
+    padding:40px;
+    background-color:rgb(241, 235, 235);
+}
+.con2_2{
+    margin-top:50px;
+    display:flex;
+    flex-direction:column;
+    
+}
